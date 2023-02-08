@@ -2,8 +2,8 @@
 ## Description
 In this project I built a portfolio using HTML and CSS. 
 My main goals were 
--To make it responsive, if resized.
--To make the first application's image larger in size than the others when viewed on a pc but same size when viewed on mobile device.
+- To make it responsive, if resized.
+- To make the first application's image larger in size than the others when viewed on a pc but same size when viewed on mobile device.
 - When the links in the navigation are clicked then the UI scrolls to the corresponding section.
 - The contact section to take user to the corresponding contact method. 
 ## Deployed application link 
